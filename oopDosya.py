@@ -112,3 +112,4 @@ class KayitIslem:
                 print("Hatalı İşlem Seçimi")
 
 
+
